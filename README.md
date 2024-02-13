@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mel-Hart-coder
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ..
+- 👀 I’m interested in coding, web development, and database management
+- 🌱 I’m currently learning MongoDB
 - 📫 How to reach me: 📧 melrhart20@gmail.com
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I am a double major in Information Technology and Cinematic Arts and Theatre.
