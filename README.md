@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning MongoDB
 - 📫 How to reach me: 📧 melrhart20@gmail.com
 - 😄 Pronouns: They/Them
-- ⚡ Fun fact: I am a double major in Information Technology and Cinematic Arts and Theatre.
+- ⚡ Fun fact: I am a double major in Information Technology and Cinematic Arts and Theatre. I will graduate in the fall of 2025!! 🎆
+
 
 <!---
 Mel-Hart-coder/Mel-Hart-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
