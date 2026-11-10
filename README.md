@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Mel-Hart-coder
 - 👀 I’m interested in coding, web development, and database management
-- 🌱 I’m currently learning MongoDB
 - 📫 How to reach me: 📧 melrhart20@gmail.com
 - 😄 Pronouns: They/Them
-- ⚡ Fun fact: I am a double major in Information Technology and Cinematic Arts and Theatre. I will graduate in the fall of 2025!! 🎆
+- ⚡ Fun fact: I have two degrees from the University of North Alabama. Information Technology and Cinematic Arts!
 
 
 <!---
