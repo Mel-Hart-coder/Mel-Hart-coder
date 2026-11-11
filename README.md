@@ -1,4 +1,4 @@
-#Meet Me!
+# Meet Me!
 - 👋 Hi, I’m @Mel-Hart-coder
 - 👀 I’m interested in coding, web development, and database management
 - 📫 How to reach me: 📧 melrhart20@gmail.com
@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I have two degrees from the University of North Alabama. Information Technology and Cinematic Arts!
 
 
-#Projects I'm Working on 
+# Projects I'm Working on 
 - Happy Planter
   * A To Do list where your plant grows whenever you finish a task!
   * Made with my own art!
